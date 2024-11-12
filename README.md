@@ -224,3 +224,5 @@ This code is developed and maintained by Dr. Jacob Parker and Dr. Zechuan Lin
 
 Queries regarding scripts 1 and 2: zechuan.lin@yale.edu
 Queries regarding scripts 2 - 4: Jacob.parker@yale.edu
+
+Zenodo DOI: [![DOI](https://zenodo.org/badge/887462432.svg)](https://doi.org/10.5281/zenodo.14109496)
